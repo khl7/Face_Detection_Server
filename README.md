@@ -1,6 +1,6 @@
-# Face_Recognition_Server
+# Face Detection Server
 
-This application is the server side of a face-detection web application. Link of the face-detection web app: https://face-detection-front-end.herokuapp.com/.
+This application is the server side of a face-detection web application. Link to the face-detection web app: https://face-detection-front-end.herokuapp.com/.
 
 
 # Disclaimer
